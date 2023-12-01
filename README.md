@@ -1,4 +1,4 @@
-## Quamtum chemistry
+## Quantum chemistry
 
 Quantum chemistry is a sub-discipline of chemistry that focuses on the application of quantum mechanics and quantum field theory to understand the behavior of atoms, molecules, and chemical systems at the quantum level. It seeks to explain the electronic structure of molecules, their energy levels, and the forces between them, which ultimately determine chemical reactivity, bonding, and other chemical properties.
 
@@ -79,7 +79,7 @@ https://github.com/QEF
 
 https://docs.pace.gatech.edu/software/quantumEspresso/
 
-### Python + Quantum sciencce & engineering
+### Python + Quantum Science & Engineering
 
 The realm of spectroscopy and quantum mechanics is vast, and there are several Python packages that cater to various aspects of these fields. Here are some popular Python packages used in these domains:
 
